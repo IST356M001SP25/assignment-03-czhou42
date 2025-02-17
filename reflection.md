@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+It's a bit difficult to figure out the logic relations of loops in if-else statements. Be proficient in using these statements is important for further use and I'll practice more.

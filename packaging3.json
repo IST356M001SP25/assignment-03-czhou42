@@ -1,0 +1,80 @@
+[
+    {
+        "package": {
+            "eggs": 12,
+            "carton": 1
+        },
+        "total_size": 12
+    },
+    {
+        "package": {
+            "balls": 25,
+            "bucket": 1,
+            "buckets": 4,
+            "bin": 1
+        },
+        "total_size": 25
+    },
+    {
+        "package": {
+            "cards": 52,
+            "deck": 1,
+            "decks": 8,
+            "shoe": 1
+        },
+        "total_size": 52
+    },
+    {
+        "package": {
+            "tires": 4,
+            "car": 1,
+            "cars": 20,
+            "lot": 1,
+            "lots": 3,
+            "property": 1
+        },
+        "total_size": 4
+    },
+    {
+        "package": {
+            "tablets": 30,
+            "blister": 12,
+            "carton": 1,
+            "cartons": 4,
+            "box": 1
+        },
+        "total_size": 360
+    },
+    {
+        "package": {
+            "cans": 24,
+            "case": 1,
+            "cases": 16,
+            "stack": 1,
+            "stacks": 12,
+            "pallet": 1
+        },
+        "total_size": 24
+    },
+    {
+        "package": {
+            "ounces": 8,
+            "cup": 1,
+            "cups": 2,
+            "pint": 1,
+            "pints": 2,
+            "quart": 1,
+            "quarts": 4,
+            "gallon": 1
+        },
+        "total_size": 8
+    },
+    {
+        "package": {
+            "mm": 1000,
+            "m": 1000,
+            "km": 1
+        },
+        "total_size": 1000000
+    }
+]
